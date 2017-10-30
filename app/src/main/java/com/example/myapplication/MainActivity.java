@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView t1 =(TextView) findViewById(R.id.t123);
-        t1.setText("asdc");
+        t1.setText("第三次");
     }
 }
