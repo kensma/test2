@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         TextView t1 =(TextView) findViewById(R.id.t123);
         TextView t2 =(TextView) findViewById(R.id.textView);
         t1.setText("第12次");
-        t2.setText("16");
+        t2.setText("17");
     }
 }
 
